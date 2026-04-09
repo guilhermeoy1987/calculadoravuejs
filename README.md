@@ -1,3 +1,21 @@
+# Calculadora Aritmética com Vue.js - EBAC
+
+Este repositório contém o desenvolvimento de uma calculadora dinâmica que realiza operações matemáticas em tempo real conforme os dados são inseridos.
+
+## O que foi realizado:
+* **Cálculo em Tempo Real:** Uso de propriedades computadas para exibir o resultado instantaneamente.
+* **Vínculo de Dados (v-model):** Sincronização automática entre os campos de entrada e a lógica de cálculo.
+* **Manipulação de Operadores:** Implementação de lógica para adição, subtração, multiplicação e divisão.
+* **Interface Dinâmica:** Layout construído para facilitar a interação e visualização clara dos resultados.
+
+## Tecnologias:
+* Vue.js
+* JavaScript (ES6+)
+* HTML5 / CSS3
+* Git / GitHub
+
+
+
 # Vue 3 + Vite
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
